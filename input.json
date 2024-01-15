@@ -1,0 +1,20 @@
+{
+    "window": {
+        "departure_lower": {
+            "y": 2016,
+            "m": 1,
+            "d": 1
+        },
+        "departure_upper": {
+            "y": 2016,
+            "m": 4,
+            "d": 10
+        },
+        "tof_lower": 100,
+        "tof_upper": 400
+    },
+    "body": {
+        "departure": "earth",
+        "arrival": "mars"
+    }
+}

@@ -1,0 +1,3 @@
+[submodule "third_party/pykep"]
+	path = third_party/pykep
+	url = https://github.com/esa/pykep.git
